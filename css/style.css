@@ -1,0 +1,51 @@
+p {
+  margin-left: 20px ;
+  margin-right: 20px;
+  line-height: 25px;
+}
+code {
+  margin-right: 30px;
+  margin-left: 30px;
+}
+
+body {
+  margin: 0;
+  font-family: "Open Sans";
+}
+
+
+a {
+
+  display: block;
+  padding: 18px;
+  margin: 0;
+  border-top: 1px solid black;
+  text-decoration: none;
+  color: gray;
+}
+
+
+#main-doc {
+  display: flex;
+  flex-direction: row;
+  
+}
+
+#navbar {
+  width: 1000px;
+  margin-right:40px;
+  border-style: solid;
+  padding: 0;
+  border-color: gray;
+}
+
+#nav-header {
+  text-align: center;
+  padding: 5px 10px;
+}
+
+li {
+  margin: 20px
+  
+}
+
